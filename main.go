@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-realtime-practice/test"
+	"github.com/jech320/go-realtime-practice/test"
 )
 
 func main() {
